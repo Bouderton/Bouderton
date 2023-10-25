@@ -1,7 +1,7 @@
 ### Hi there, my name is Ryan Khazal! 👋
 
 ##
-- 🔭 I’m currently studying Full Stack Engineering at Triple Ten
+- 🔭 I’m currently studying Full Stack Engineering at Triple Ten, check my public repositories to see my work!
 - 🌱 My current skills include: HTML, CSS, Git, Figma, VSCode, and JavaScript
 - 🤔 I am currently learning JavaScript
 - 📫 How to reach me: Check my LinkedIn profile link with my information.
