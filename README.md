@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Khazal</h1>
-<h3 align="center">A passionate frontend developer from Las Vegas Nevada</h3>
+<h3 align="center">A passionate frontend developer from Las Vegas, Nevada</h3>
 
 - 🔭 I’m currently working on [JavaScript Api's](https://github.com/Bouderton/se_project_aroundtheus/tree/project-9)
 
