@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [JavaScript Api's](https://github.com/Bouderton/se_project_aroundtheus/tree/project-9)
 
-- 🌱 I’m currently learning **JavaScript, Webpack, React.js, JavaScript API's,**
+- 🌱 I’m currently learning **JavaScript, Webpack, React.js, and JavaScript API's,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bouderton](https://github.com/Bouderton)
 
