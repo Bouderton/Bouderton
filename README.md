@@ -11,8 +11,7 @@
 
 - ⚡ Fun fact **I played Varsity High School Basketball, while winning a Regional and State Championship.**
 
-<h3 align="left">Connect with me: **rmkhazal@gmail.com</h3>
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
