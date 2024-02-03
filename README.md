@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact **I played Varsity High School Basketball, while winning a Regional and State Championship.**
 
+- 🎨 Check out some of my 3D art and animation projects as well: https://www.artstation.com/ryankhazal7
 
 </p>
 
