@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Khazal</h1>
 <h3 align="center">A Passionate Front-End Developer from Las Vegas, Nevada</h3>
 
-- 🔭 I’m currently working on [JavaScript Api's](https://github.com/Bouderton/se_project_aroundtheus/tree/project-9)
+- 🔭 I’m currently working on [JavaScript Api's, and React.JS]
 
 - 🌱 I’m currently learning **JavaScript, Webpack, React.js, and JavaScript API's,**
 
