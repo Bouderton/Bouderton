@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Khazal</h1>
 <h3 align="center">A Passionate Front-End Developer from Las Vegas, Nevada</h3>
 
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on Back End Engineering
 
 - 🌱 I’m currently learning **JavaScript, React, Node.JS, and Express.JS**
 
