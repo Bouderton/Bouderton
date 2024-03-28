@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on React
 
-- 🌱 I’m currently learning **JavaScript, React, and Node.JS**
+- 🌱 I’m currently learning **JavaScript, React, Node.JS, and Express.JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bouderton](https://github.com/Bouderton)
 
