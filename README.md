@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Full-Stack Application project
 
-- 🌱 I’m currently learning **JavaScript, React, Node.JS, and Express.JS**
+- 🌱 I’m currently learning **Jest**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bouderton](https://github.com/Bouderton)
 
