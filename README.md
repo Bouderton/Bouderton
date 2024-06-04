@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Khazal</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Las Vegas, Nevada</h3>
 
-- 🔭 I’m currently working on a Full-Stack Application project
+- 🔭 I’m currently working on a **Full-Stack Application project**
 
 - 🌱 I’m currently learning **Jest**
 
