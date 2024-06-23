@@ -11,7 +11,7 @@
 
 - ⚡ Fun Fact: **I love basketball, art, and music!**
 
-- 🎨 Check out some of my 3D art and animation projects as well: https://www.artstation.com/ryankhazal7
+- 🎨 Check out some of my 3D art projects as well: https://www.artstation.com/ryankhazal7
 
 </p>
 
