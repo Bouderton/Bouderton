@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryan Khazal</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Las Vegas, Nevada</h3>
 
-- 🔭 I’m currently working on a **Full-Stack Application project**
+- 🔭 I’m currently working on a **Full-Stack Application Project (NewsExplorer)**
 
-- 🌱 I’m currently learning **Deployment and Automated Testing**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bouderton](https://github.com/Bouderton)
 
