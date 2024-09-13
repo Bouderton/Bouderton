@@ -1,4 +1,4 @@
-# Hi 👋 I'm Ryan Khazal - Full Stack Web Developer
+# Hi 👋 I'm Ryan Khazal - Full Stack Software Engineer
 ### About Me
 * 🌍  I'm based in Las Vegas, Nevada
 * 🖥️  See my portfolio at [Github](http://github.com/Bouderton)
