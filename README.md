@@ -3,7 +3,7 @@
 * 🌍  I'm based in Las Vegas, Nevada
 * 🖥️  See my portfolio at [Github](http://github.com/Bouderton)
 * ✉️  You can contact me at [rmkhazal@gmail.com](mailto:rmkhazal@gmail.com) or on LinkedIn down below
-*  🚀  I'm currently working on networking and interview prep
+*  🚀  I'm currently working on Networking and Interview Prep
 *  🧠  I'm learning Data Structures and Algorithms
 * ⚡  Fun Facts: I am a 2023 5A Varsity Basketball Regional and State Champion, and I've competed and won in various musical events including guitar and cello!
 
