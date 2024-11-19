@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ryan Khazal - Full Stack Software Engineer
 ### About Me
 * 🌍  I'm based in Las Vegas, Nevada
-* 🖥️  See my portfolio at [Github](http://github.com/Bouderton)
+* 🖥️  See my portfolio at [my website](https://www.ryankhazal.com/)
 * ✉️  You can contact me at [rmkhazal@gmail.com](mailto:rmkhazal@gmail.com) or on LinkedIn down below
 *  🚀  I'm currently working on Networking and Interview Prep
 *  🧠  I'm learning Data Structures and Algorithms
@@ -23,6 +23,7 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferer" ><img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp&w=256" width="36" height="36" alt="Python"/></a>
 
 
 ### Tools
