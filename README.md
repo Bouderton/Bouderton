@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ryan Khazal - Full Stack Software Engineer
 ### About Me
 * 🌍  I'm based in Las Vegas, Nevada
-* 🖥️  See my portfolio at [my website](https://www.ryankhazal.com/)
+* 🖥️  See my portfolio at [ryankhazal.com](https://www.ryankhazal.com/)
 * ✉️  You can contact me at [rmkhazal@gmail.com](mailto:rmkhazal@gmail.com) or on LinkedIn down below
 *  🚀  I'm currently working on Networking and Interview Prep
 *  🧠  I'm learning Data Structures and Algorithms
